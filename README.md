@@ -2,6 +2,6 @@
 
 This repository includes a script to manage Google Drive files remotely through the Google Drive Python API.
 
-Please, refer to https://developers.google.com/drive/api/v3/quickstart/python for documentation.
+Please, refer to [https://github.com/lucbouge/Google_drive_transfer/tree/master](https://github.com/lucbouge/Google_drive_transfer/tree/master) for documentation.
 
-Warning: The current version of script rapport.Py was designed for Version 2 of the API, whereas the current version is 3
+**Warning:** The current version of script rapport.Py was designed for Version 2 of the API, whereas the current version is Version 3. However, little modification is expected.
