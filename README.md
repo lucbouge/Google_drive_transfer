@@ -4,4 +4,4 @@ This repository includes a script to manage Google Drive files remotely through 
 
 Please, refer to [https://github.com/lucbouge/Google_drive_transfer/tree/master](https://github.com/lucbouge/Google_drive_transfer/tree/master) for documentation.
 
-**Warning:** The current version of script rapport.Py was designed for Version 2 of the API, whereas the current version is Version 3. However, little modification is expected.
+**Warning:** The current version of script rapport.py was designed for Version 2 of the API, whereas the current version is Version 3. However, little modification is expected.
